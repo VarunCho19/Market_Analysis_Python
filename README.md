@@ -1,0 +1,1 @@
+This is a simple python algo that will predict the price for the next day using an RNN like LTSM. We can use different models as well due to the pipeline created. Data Extraction was used similiar to another user.
